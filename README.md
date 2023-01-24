@@ -1,4 +1,9 @@
-create folder noses, perfumes
-Scrap list perfumes: scrap.ipynb (chaotic)
-Scrap perfumes detail: scrap.py
-Preprocess + visualize data: preproces.ipynb
+I run this in python 3.9.4
+
+1. install requirements.txt
+2. create folder noses, perfumes
+3. Scrap list perfumes: scrap.ipynb (chaotic)
+4. Scrap perfumes detail: scrap.py
+5. Preprocess + visualize data: preproces.ipynb
+
+note: I don't upload data in this repo
